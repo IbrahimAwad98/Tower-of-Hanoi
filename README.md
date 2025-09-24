@@ -16,9 +16,3 @@ TowerUi → ett textbaserat gränssnitt för att spela spelet.
 **Krav:**
 Java 17 eller senare
 Kompilator (javac) och JVM (java)
-
-**Vidareutveckling**
-Grafiskt gränssnitt (JavaFX eller Swing)
-Räknare för minsta möjliga antal drag (2^n – 1)
-Möjlighet att spela mot datorn (automatisk lösning)
-Spara och ladda spelomgångar
